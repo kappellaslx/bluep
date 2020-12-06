@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BluePrismConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "dict.txt Spin Spot result.txt"
+    }
+  }
+}
